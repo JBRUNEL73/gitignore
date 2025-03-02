@@ -1,0 +1,8 @@
+# Fichier spécifique
+new-file.txt
+
+# Répertoire spécifique
+new-folder/
+
+# Ignorer les fichiers avec l'extension .tmp
+*.tmp 
